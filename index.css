@@ -1,0 +1,27 @@
+body {
+    background-color:rgb(54, 27, 8)
+}
+
+.main {
+    display: block;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.image-cropper {
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.pfp {
+    display: inline;
+    margin-top: -9%;
+    height: 120%;
+    width: auto
+}
